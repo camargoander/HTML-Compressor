@@ -17,7 +17,7 @@ Vá até o painel do WordPress → Plugins.
 Ative o plugin chamado HTML Compressor.
 
 ⚠️ Observações:
-Esse compressor é simples e pode afetar conteúdos sensíveis como <pre>, e-mails e alguns formulários.
+Esse compressor é simples e pode afetar conteúdos sensíveis como < pre >, e-mails e alguns formulários.
 
 Teste o site após ativar.
 
