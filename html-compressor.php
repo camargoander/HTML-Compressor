@@ -3,7 +3,7 @@
 Plugin Name: HTML Compressor
 Description: Minifica o HTML gerado pelo WordPress automaticamente.
 Version: 1.0
-Author: Seu Nome
+Author: Anderson Camargo
 */
 
 if (!defined('ABSPATH')) exit; // Segurança: impede acesso direto
