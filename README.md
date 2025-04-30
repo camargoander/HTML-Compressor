@@ -1,4 +1,3 @@
-
 Portugues
 
 🔌 Plugin: HTML Compressor – O Companheiro Silencioso
@@ -20,5 +19,3 @@ Ative o plugin chamado HTML Compressor.
 Esse compressor é simples e pode afetar conteúdos sensíveis como < pre >, e-mails e alguns formulários.
 
 Teste o site após ativar.
-
-Pode ser complementado com compressão de CSS/JS usando plugins como Autoptimize.
